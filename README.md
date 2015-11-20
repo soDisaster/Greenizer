@@ -6,7 +6,7 @@ Projet de fin d'études
 Auteurs
 -------
 
-Thomas BERNARD
+Thomas BERNARD &
 Anne-Sophie SAINT-OMER
 
 
