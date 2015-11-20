@@ -3,6 +3,13 @@
 Projet de fin d'études
 ----------------------
 
+Auteurs
+-------
+
+Thomas BERNARD
+Anne-Sophie SAINT-OMER
+
+
 Greenizer est une association créée par Céline Scavennec qui a pour but de sensibiliser au problème des déchets et promouvoir des solutions positives pour réduire notre empreinte écologique.
 Nous intervenons (si possible en partenariat avec d'autres associations) auprès d'organisateurs d'événements avec une solution concrète de réduction des déchets plastiques.
 
@@ -10,5 +17,4 @@ Nous ne faisons pas de longs discours, nous proposons simplement de vivre une ex
 
 Dans ce projet, nous sommes chargés de mettre en place la plateforme web et la partie technique du projet.
 
-Thomas BERNARD.
-Anne-Sophie SAINT-OMER
+
