@@ -1,4 +1,5 @@
-# Created by https://www.gitignore.io/api/windows,osx,linux
+
+# Created by https://www.gitignore.io/api/windows,osx,linux,sass
 
 ### Windows ###
 # Windows image file caches
@@ -57,3 +58,8 @@ Temporary Items
 
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
+
+
+### Sass ###
+.sass-cache/
+*.css.map
