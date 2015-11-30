@@ -36,8 +36,14 @@ header .logo {
     }
 }
 
-.subscribe h3 {
-	color: $headings-color;
+.subscribe {
+    h3 {
+    	color: $headings-color;
+    }
+
+    .btn {
+        background-color: $brand-primary;
+    }
 }
 
 .footer-holder{
