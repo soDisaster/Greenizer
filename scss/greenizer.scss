@@ -21,11 +21,10 @@
 
 #test {
 	background-color : #f4f4f4;
-}
 
-#test p {
-	color : #635C73;
-	font-weight : bold;
+    p {
+    	color : $headings-color;
+    }
 }
 
 header .logo {
