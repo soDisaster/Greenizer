@@ -1,3 +1,6 @@
+
+@import url(https://fonts.googleapis.com/css?family=Quicksand:400,300,700);
+
 .visual {
 	color: white;
 	letter-spacing: 1px;
@@ -5,7 +8,8 @@
 	h1 {
 		color : white;
 		margin-bottom : 5%;
-		font-family : Helvetica;
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 400;
 	}
 }
 
