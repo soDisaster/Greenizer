@@ -25,11 +25,7 @@
 
 $('#facebook').hover(
     function() {
-        $('#facebook span').fadeOut(1000, function() {
-            $('#facebook span').text(" Prochainement");
-        })
         $('#facebook span').text(" Prochainement");
-
     }, function() {
         $('#facebook span').text(" Facebook");
     }
@@ -38,7 +34,6 @@ $('#facebook').hover(
 $('#twitter').hover(
     function() {
         $('#twitter span').text(" Prochainement");
-
     }, function() {
         $('#twitter span').text(" Twitter");
     }
